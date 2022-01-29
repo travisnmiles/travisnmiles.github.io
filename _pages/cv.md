@@ -11,18 +11,18 @@ redirect_from:
 
 Education
 ======
-Ph.D, Rutgers University,                                           2014
-M.S., North Carolina State University,                              2009
-B.S., North Carolina State University                               2009
+Ph.D, Rutgers University,  2014\
+M.S., North Carolina State University, 2009\
+B.S., North Carolina State University 2009
 
 Professional Experience
 ======
-Assistant Professor, Rutgers University                             2018 - Present
-Assistant Research Professor, Rutgers University                    2015 - 2018
-Fulbright Scholar, University of Gothenburg                         2017    
-Postdoctoral Research Associate, Rutgers University				         	2014 – 2015
-Graduate Research Assistant, Rutgers University					            2009 – 2014
-Graduate Research Assistant, North Carolina State University				2007 – 2009
+Assistant Professor, Rutgers University 2018 - Present\
+Assistant Research Professor, Rutgers University 2015 - 2018\
+Fulbright Scholar, University of Gothenburg 2017        \
+Postdoctoral Research Associate, Rutgers University 2014 – 2015\
+Graduate Research Assistant, Rutgers University 2009 – 2014\
+Graduate Research Assistant, North Carolina State University 2007 – 2009
 
 Honors and Awards
 ======
