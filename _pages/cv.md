@@ -11,23 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Ph.D, Rutgers University,                                           2014
+M.S., North Carolina State University,                              2009
+B.S., North Carolina State University                               2009
 
-Work experience
+Professional Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Assistant Professor, Rutgers University                             2018 - Present
+Assistant Research Professor, Rutgers University                    2015 - 2018
+Fulbright Scholar, University of Gothenburg                         2017    
+Postdoctoral Research Associate, Rutgers University				         	2014 – 2015
+Graduate Research Assistant, Rutgers University					            2009 – 2014
+Graduate Research Assistant, North Carolina State University				2007 – 2009
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Honors and Awards
 ======
 * Skill 1
 * Skill 2
@@ -41,19 +38,19 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Presentations
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
