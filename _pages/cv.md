@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+https://travisnmiles.github.io/files/tnmiles_CV_2022_Jan_Full.pdf
 
 {% include base_path %}
 
