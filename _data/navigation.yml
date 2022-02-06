@@ -16,10 +16,10 @@ main:
     url: /students/
 
   - title: "CV"
-    url: /cv/
+    url: /files/tnmiles_CV_2022_Jan_Full.pdf
 
   - title: "Guide"
     url: /markdown/
 
-  - title: "test"
-    url: /files/tnmiles_CV_2022_Jan_Full.pdf
+  # - title: "test"
+  #   url: /files/tnmiles_CV_2022_Jan_Full.pdf
