@@ -1,25 +1,25 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/
+  - title: "Research"
+    url: /research/
 
   - title: "Teaching"
     url: /teaching/
 
-  # - title: "Portfolio"
-  #   url: /portfolio/
+  - title: "Publications"
+    url: /publications/
 
   - title: "Students"
     url: /students/
 
+  - title: "Talks"
+    url: /talks/
+
   - title: "CV"
     url: /files/tnmilesCV_2022_03_Full.pdf
 
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
 
   # - title: "test"
   #   url: /files/tnmiles_CV_2022_Jan_Full.pdf
