@@ -214,3 +214,8 @@ main section + section { border-top: 1px solid var(--line); }
 .site-footer { background: var(--navy); color: #a9c3cf; font-size: .88rem; padding: 28px 0; margin-top: 40px; }
 .site-footer .wrap { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 12px; }
 .site-footer a { color: #d5e8ee; }
+
+/* ---------- photo ---------- */
+.photo { margin: 0 0 28px; }
+.photo img { width: 100%; height: auto; border-radius: var(--radius); box-shadow: var(--shadow); }
+.photo figcaption { font-size: .82rem; color: var(--muted); margin-top: 6px; }
