@@ -64,7 +64,11 @@ h3 { font-size: 1.2rem; margin: 0 0 .4rem; }
   backdrop-filter: blur(8px);
   color: var(--hero-text);
 }
-.site-header .wrap { display: flex; align-items: center; justify-content: space-between; height: 62px; }
+.site-header .wrap { display: flex; align-items: center; gap: 14px; height: 72px; }
+.brand { margin-right: auto; white-space: nowrap; }
+.lab-logo { flex: none; display: block; width: 58px; height: 58px; border-radius: 50%; box-shadow: 0 0 0 2px rgba(255,255,255,.35); }
+.lab-logo img { width: 58px; height: 58px; border-radius: 50%; }
+.lab-logo:hover { box-shadow: 0 0 0 2px #8fd3dc; }
 .brand { color: #fff; text-decoration: none; font-family: var(--serif); font-size: 1.2rem; font-weight: 600; }
 .brand span { color: #8fd3dc; font-weight: 400; }
 .nav { display: flex; gap: 4px; }
@@ -79,10 +83,11 @@ h3 { font-size: 1.2rem; margin: 0 0 .4rem; }
   display: none; background: none; border: 1px solid rgba(255,255,255,.3); color: #fff;
   border-radius: 6px; padding: 6px 10px; font: inherit; font-size: .9rem; cursor: pointer;
 }
-@media (max-width: 820px) {
+@media (max-width: 940px) {
   .nav-toggle { display: block; }
+  .lab-logo, .lab-logo img { width: 50px; height: 50px; }
   .nav {
-    display: none; position: absolute; top: 62px; left: 0; right: 0;
+    display: none; position: absolute; top: 72px; left: 0; right: 0;
     flex-direction: column; background: var(--navy); padding: 8px 16px 16px;
   }
   .nav.open { display: flex; }
